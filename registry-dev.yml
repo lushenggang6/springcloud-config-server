@@ -4,7 +4,6 @@ spring:
   application:
     name: ly-registry
   rabbitmq:
-    virtual-host: /leyou
     username: guest
     password: guest
     host: 192.168.2.186
